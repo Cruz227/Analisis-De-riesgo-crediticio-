@@ -20,6 +20,14 @@ graph TD;
     B -->|Conexión Directa| I[Power BI Dashboard];
 ```
 
+## 📈 Dashboards de Power BI
+
+A continuación se muestran capturas de los reportes construidos para el monitoreo de la cartera crediticia. Estas visualizaciones consumen la vista en la base de datos.
+
+![Panel de Control Riesgo Crediticio](IMG/Power_BI_1.jfif)
+
+![Análisis Geográfico y de Cumplimiento](IMG/Power_BI_2.jfif)
+
 ## 🗄️ Data Engineering y ETL (PostgreSQL)
 
 Todo el procesamiento inicial de datos, limpieza y enriquecimiento ocurre directamente en la base de datos para máxima eficiencia y seguridad. Esto se encuentra documentado en `sql/00_setup_and_transformation.sql`:
