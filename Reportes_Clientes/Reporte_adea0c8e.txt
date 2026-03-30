@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**REPORTE EJECUTIVO DE RIESGO - ANÁLISIS INDIVIDUAL DE CRÉDITO**
+
+**Caso ID:** adea0c8e5766d93d80432292e405ed31
+
+Este caso individual presenta una contradicción crítica que amerita revisión urgente. Los ingresos declarados de $57,000 COP son extraordinariamente bajos y no corresponden a una capacidad de pago mínima esperada para cualquier tipo de crédito en el contexto económico actual de Colombia, ni siquiera para un monto tan modesto como $3,000 COP. Esta cifra genera una inconsistencia severa con la calificación de riesgo "A" asignada al cliente, la cual típicamente denota un perfil de bajo riesgo y excelente solvencia. El propósito de "Consolidación de Deuda" también sugiere una situación financiera preexistente que podría estar bajo estrés, lo que hace aún más preocupante la combinación de ingresos irrisorios con una calificación de riesgo óptima. El hecho de que el crédito esté "Al día" puede ser temporal, dado el desbalance fundamental en la capacidad de pago.
+
+La discrepancia entre los ingresos y la calificación de riesgo sugiere un posible error en la captura de datos o una falla en el modelo de evaluación que no está detectando esta inconsistencia fundamental. Otorgar un crédito bajo estas condiciones, incluso por un monto reducido, representa un riesgo crediticio elevado para el banco y una exposición potencial a pérdida. Se recomienda una validación inmediata y exhaustiva de la información de ingresos del cliente y una revisión del proceso que llevó a la asignación de una calificación "A" a este perfil. Es imperativo asegurar que nuestros sistemas de evaluación de riesgo y procesos de verificación de datos sean robustos para prevenir la aprobación de créditos a perfiles que, al ser analizados, revelan una inviabilidad financiera tan evidente.

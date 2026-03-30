@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**REPORTE EJECUTIVO DE ANÁLISIS DE RIESGO**
+
+**Asunto:** Análisis de Perfil Crediticio Individual - ID: a86997a8ceeecd11d4320e2d330949b0
+
+El presente análisis corresponde al caso identificado con ID a86997a8ceeecd11d4320e2d330949b0, residente en el departamento de Antioquia. A la fecha del 6 de abril de 2025, el cliente presenta un perfil de riesgo excepcionalmente favorable. Sus ingresos anuales declarados ascienden a $280,000,000 COP, lo cual denota una robusta capacidad económica. El monto solicitado es de $16,000,000 COP, destinado a educación, lo que representa una proporción mínima frente a sus ingresos y suele asociarse con un propósito de inversión en capital humano. Este escenario, sumado a una calificación de riesgo "A" y un estado "Al día" en sus obligaciones, indica una excelente salud financiera y un comportamiento de pago ejemplar.
+
+La combinación de un elevado nivel de ingresos, un monto de crédito relativamente bajo y un excelente historial de cumplimiento posiciona a esta operación en el segmento de muy bajo riesgo para la entidad. No se identifican banderas rojas significativas; por el contrario, todos los indicadores apuntan a una solvencia y voluntad de pago destacadas. Se recomienda mantener el monitoreo estándar, si bien este perfil contribuye positivamente a la calidad general de la cartera de crédito del banco.

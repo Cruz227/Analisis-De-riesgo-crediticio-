@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**REPORTE EJECUTIVO DE RIESGO DE CRÉDITO**
+
+**Caso ID: 630491ad5b1d4fedd2e986f8f03ffdfa**
+
+Se ha identificado un caso particular en el departamento de Santander que demanda atención inmediata desde la perspectiva de riesgo de crédito. El cliente, con un perfil de ingresos anuales significativos de $240,000,000 COP, accedió a un crédito por $12,000,000 COP con motivo de educación. Aunque clasificado inicialmente con un nivel de Riesgo B, indicativo de una baja probabilidad de incumplimiento en el momento de la aprobación o última revisión, actualmente registra un estado moroso a partir de la fecha indicada (2025-09-20). Esta situación es notable dada la magnitud de sus ingresos anuales frente al monto del crédito, lo que sugiere una capacidad de pago que no se está materializando.
+
+La disonancia entre la calificación de Riesgo B y el estado actual de morosidad requiere una investigación profunda. Esto puede indicar una degradación súbita en la situación financiera del cliente, una falla en los sistemas de monitoreo temprano de riesgo, o una evaluación inicial del riesgo que no capturó factores subyacentes. Como siguiente paso prioritario, se recomienda activar de inmediato los protocolos de cobranza y contactar al cliente para comprender las razones específicas detrás del incumplimiento. Adicionalmente, es crucial realizar una revisión exhaustiva del perfil crediticio y el proceso de evaluación que resultó en la calificación B, con el fin de identificar posibles debilidades en nuestros modelos o políticas de otorgamiento y asegurar la adecuada asignación de provisiones para este crédito.

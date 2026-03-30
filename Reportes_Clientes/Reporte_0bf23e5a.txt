@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**REPORTE EJECUTIVO DE RIESGO DE CRÉDITO**
+
+**Caso ID:** 0bf23e5afed6dca1f4d9257b605f385a
+
+El caso en cuestión presenta un cliente en Bogotá con ingresos significativos de $300,000,000 COP, solicitando un crédito de $16,000,000 COP con motivo de salud, el cual se encuentra "al día" en su estado de pago. La relación del monto del crédito respecto a los ingresos es extremadamente baja (aproximadamente 5.3%), lo que a primera vista sugiere una alta capacidad de pago y un perfil de bajo riesgo para esta obligación específica. Sin embargo, la asignación de una calificación de riesgo "C" resulta contradictoria y genera una señal de alerta, ya que este nivel generalmente implica un perfil de riesgo moderado a alto en la escala bancaria colombiana, lo cual no se alinea con los datos financieros presentados para este crédito.
+
+Ante esta disparidad, es imperativo realizar una investigación profunda para validar la calificación de riesgo "C". Se debe revisar el historial crediticio completo del cliente, incluyendo otras obligaciones financieras no detalladas aquí, posibles incumplimientos pasados, o factores externos que el modelo de scoring haya podido capturar (ej. sector económico de alto riesgo, inestabilidad laboral reciente). Adicionalmente, la fecha del registro (2024-12-21) es futura, lo cual podría ser un error de digitación o un dato proyectado que requiere verificación para asegurar la precisión de la información de cara a la evaluación del riesgo presente.

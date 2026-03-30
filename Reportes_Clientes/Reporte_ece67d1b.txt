@@ -1,0 +1,7 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**Reporte Ejecutivo de Análisis de Riesgo**
+
+El presente informe analiza el perfil crediticio asociado al ID `ece67d1bbc6b5aaae72feecee1651e6e`, originario del departamento de Bolívar. Este cliente posee un crédito por un monto de $27,900,000 COP, con motivo de Educación, y declara ingresos por $112,000,000 COP (se asume anuales para un monto de tal magnitud). A la fecha de referencia, 16 de julio de 2025, el estado del crédito se reporta como "Al día". No obstante, la calificación de riesgo asignada es "C", lo que indica un perfil de riesgo significativo, sugiriendo una probabilidad de incumplimiento mayor que los segmentos de riesgo "A" o "B", a pesar de la puntualidad actual en sus pagos.
+
+La calificación de riesgo "C" para un crédito que se encuentra "Al día" amerita una atención particular. Esto podría indicar que, aunque el cliente está cumpliendo sus obligaciones actuales, existen factores subyacentes en su perfil financiero (como su capacidad de pago versus otras obligaciones, historial crediticio previo, estabilidad de ingresos, o indicadores de endeudamiento) que lo posicionan en un segmento de mayor vulnerabilidad. Se recomienda un monitoreo continuo y posiblemente una revisión más profunda de los criterios que llevaron a esta calificación, para asegurar que los modelos de riesgo estén alineados con la realidad del comportamiento de pago y para evaluar el impacto potencial de este tipo de perfiles en la cartera general del banco.

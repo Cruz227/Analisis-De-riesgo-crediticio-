@@ -1,0 +1,7 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**Reporte Ejecutivo de Análisis de Riesgo**
+
+Se ha revisado el caso con ID 37326c38eb1958e648c5a6e327c27fb5, correspondiente a un cliente en el departamento del Atlántico. El perfil financiero del solicitante es excepcionalmente fuerte, destacando unos ingresos de $208,000,000 COP anuales frente a un monto solicitado de $24,000,000 COP. Esta proporción de ingresos a deuda es altamente favorable, lo que se complementa con una calificación de riesgo 'A' pre-asignada por la entidad y un estado de cuenta 'Al día', indicando un excelente comportamiento crediticio previo y una robusta capacidad de pago.
+
+Si bien el propósito del crédito es para 'Emprendimiento', una actividad que intrínsecamente conlleva un mayor grado de incertidumbre, la robusta capacidad económica del solicitante y su historial crediticio impecable mitigan significativamente este factor. La operación, a la luz de los datos presentados, se clasifica dentro de un perfil de bajo riesgo para la institución, sugiriendo una alta probabilidad de cumplimiento y un buen retorno ajustado al riesgo. Se recomienda proceder con la evaluación detallada de la propuesta de emprendimiento para asegurar la viabilidad del destino de los fondos, aunque el riesgo primario del deudor parece estar muy bien cubierto.

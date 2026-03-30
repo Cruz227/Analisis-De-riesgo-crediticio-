@@ -1,0 +1,10 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**Reporte Ejecutivo - Análisis de Riesgo Individual**
+
+**ID Cliente:** 5bde02287729c6b6ed28182d0c316821
+**Fecha de Análisis:** 2024-05-26
+
+El presente análisis corresponde a un cliente con domicilio en el departamento de Antioquia, quien presenta ingresos anuales declarados de $244,800,000 COP. El crédito analizado asciende a $18,000,000 COP, con un motivo de solicitud relacionado con "Salud". La relación entre el monto del crédito y los ingresos del cliente es sumamente favorable, indicando una robusta capacidad de pago, dado que el valor del préstamo representa una fracción mínima de sus ingresos anuales y menos de un mes de sus ingresos mensuales ($20,400,000 COP/mes). Actualmente, el crédito se encuentra "Al día" en sus obligaciones, lo que refuerza la percepción de un comportamiento de pago responsable y minimiza la preocupación por riesgo de mora inmediata.
+
+Desde una perspectiva de riesgo, la calificación interna "B" asignada a este cliente es coherente con su perfil financiero. Esta clasificación se considera un nivel de riesgo adecuado para la institución, reflejando la baja exposición crediticia del banco en comparación con la capacidad económica del deudor. Aunque el motivo de "Salud" puede implicar cierta urgencia para el cliente, su situación económica permite afrontar esta obligación sin comprometer significativamente su flujo de caja. En conclusión, este caso exhibe un perfil de riesgo bajo y estable, aportando positivamente a la calidad general de la cartera. Se recomienda mantener el monitoreo periódico estándar, sin requerir acciones correctivas o de mitigación extraordinarias en este momento.

@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**Reporte Ejecutivo de Caso de Riesgo Crediticio**
+
+**ID del Caso:** 7dab07183bc8dd3171560438ec4eaeee
+
+Este caso presenta una significativa discrepancia entre la calificación de riesgo inicial asignada y el estado actual del crédito, lo cual es motivo de seria preocupación. El cliente, domiciliado en Antioquia, fue calificado con un nivel de Riesgo "A", indicando una baja probabilidad de incumplimiento. Sin embargo, con ingresos declarados de solo $15,996 COP mensuales y un monto de crédito solicitado de $4,000 COP para educación, la relación entre el monto prestado y la capacidad de pago es extremadamente alta, señalando una vulnerabilidad financiera desde el inicio. Esta situación se ha materializado en un estado "Moroso" a la fecha 2024-09-02, confirmando una subestimación crítica del riesgo en la fase de originación.
+
+La mora de este crédito, a pesar de su bajo monto nominal y un propósito de educación que usualmente se asocia con un mayor compromiso de pago, evidencia una falla en la evaluación de la capacidad real de endeudamiento del cliente o una deficiencia en la calibración del modelo de riesgo que asignó una calificación "A". Es imperativo revisar los criterios de underwriting aplicados para créditos de bajo monto pero con una alta relación deuda/ingreso, así como la metodología de validación de ingresos en este segmento. Se recomienda una auditoría profunda de los casos con calificación de riesgo "A" que han caído en mora temprana para identificar patrones, ajustar los algoritmos de riesgo y asegurar que nuestras proyecciones de riesgo sean consistentes con la realidad crediticia de nuestros clientes.

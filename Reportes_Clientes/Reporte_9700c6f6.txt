@@ -1,0 +1,7 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**Reporte Ejecutivo de Análisis de Riesgo**
+
+Se presenta el análisis de la cuenta ID: 9700c6f6c98ec39e933ab6ca33c96e1b con fecha de corte 2025-03-25. Este perfil se caracteriza por un ingreso anual de $232,000,000 COP, frente a un monto de crédito de $18,000,000 COP destinado a educación. La relación ingreso-deuda es extremadamente favorable, indicando una robusta capacidad de pago por parte del deudor. Actualmente, el crédito presenta un estado "Al día" y una calificación de riesgo interna "A", lo cual refleja un excelente comportamiento crediticio y un bajo perfil de riesgo.
+
+Considerando la sólida situación financiera del cliente, evidenciada por sus ingresos significativos y el propósito productivo del préstamo (educación), el riesgo asociado a esta operación es mínimo. La exposición del banco a este deudor es baja y el cumplimiento puntual de sus obligaciones valida la idoneidad de su calificación. Se recomienda mantener el monitoreo periódico estándar, sin identificar la necesidad de acciones mitigantes adicionales en el corto plazo, consolidando este perfil como un activo de bajo riesgo y alta calidad para la cartera del banco.

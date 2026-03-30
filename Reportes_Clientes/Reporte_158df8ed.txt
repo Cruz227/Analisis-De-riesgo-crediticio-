@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**REPORTE EJECUTIVO DE RIESGO DE CRÉDITO**
+
+**ID Cliente:** 158df8ed68eb001c00da1101f316d54c
+
+Se presenta un análisis del caso con ID 158df8ed68eb001c00da1101f316d54c, correspondiente a un crédito de $28,800,000 COP otorgado por concepto de educación. A la fecha de registro del 2025-07-22, el cliente, residente en el departamento del Atlántico, se encuentra en estado "Moroso" y ha sido clasificado con un nivel de riesgo "D". A pesar de haber reportado ingresos anuales significativos de $69,120,000 COP al momento de la originación, la obligación presenta un incumplimiento de pago evidente, posicionándolo como un activo no performing que exige atención prioritaria y la correspondiente asignación de provisiones de acuerdo con las normativas de la Superintendencia Financiera de Colombia.
+
+La clasificación de Riesgo "D" es crítica, indicando que el préstamo presenta un riesgo significativo de pérdida para la entidad, dado el deterioro sustancial en la capacidad o voluntad de pago del deudor. Es imperativo que la gerencia de cartera y riesgo investigue a fondo las causas subyacentes de esta morosidad, que podrían abarcar desde cambios adversos en la situación laboral o económica del cliente, hasta un posible sobreendeudamiento con otras entidades financieras no declarado o una deficiente disciplina de pago. Se recomienda iniciar un proceso de gestión de cobranza intensiva, que incluya contacto directo con el cliente para evaluar su situación actual y explorar opciones de normalización, reestructuración o refinanciación, con el fin de mitigar el impacto en la salud del portafolio y en los resultados financieros del banco.

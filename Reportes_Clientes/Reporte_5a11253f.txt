@@ -1,0 +1,7 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+**Reporte Ejecutivo de Riesgo Crediticio**
+
+El caso del cliente con ID 5a11253f... presenta una situación de alto riesgo crediticio, principalmente debido a ingresos extremadamente bajos de $46,000 COP en el departamento del Atlántico. A pesar de que el préstamo personal de $8,800 COP se encuentra "Al día" y la fecha del reporte es reciente (2025-04-25), la clasificación de riesgo "C" es consistente con la fragilidad financiera del deudor. La sostenibilidad de estos pagos es altamente cuestionable a largo plazo, dada la mínima capacidad de ahorro y la alta vulnerabilidad a cualquier imprevisto económico o inflación, lo cual podría llevar rápidamente a un deterioro de la cartera.
+
+Esta situación pone de manifiesto la necesidad urgente de revisar nuestros criterios de evaluación de crédito y políticas de originación para segmentos de muy bajos ingresos. Es imperativo reevaluar la metodología detrás de la calificación de riesgo "C" para casos con ingresos tan marginales, y considerar si la relación entre el monto del crédito y la capacidad de pago real justifica la exposición para el banco. Se recomienda un monitoreo proactivo de esta cuenta y una auditoría de la cartera de clientes con perfiles de ingreso similares para mitigar posibles futuros deterioros y provisiones por cartera vencida, así como para asegurar la coherencia con nuestras políticas de riesgo y sostenibilidad financiera.

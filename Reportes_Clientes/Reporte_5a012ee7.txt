@@ -1,0 +1,9 @@
+REPORTE DE RIESGO IA - BANCO COLOMBIA 2026
+==================================================
+### Reporte Ejecutivo de Análisis de Riesgo
+
+**Cliente ID:** 5a012ee79423c51afec0550b99bab983
+
+Se presenta el análisis del perfil crediticio para el cliente con ID 5a012ee79423c51afec0550b99bab983, ubicado en Bogotá. La principal y más crítica observación radica en los ingresos declarados de **$42,000 COP**. Esta cifra es extremadamente baja y genera una preocupación inmediata sobre la viabilidad financiera del cliente, ya que se encuentra muy por debajo del salario mínimo legal vigente en Colombia, lo cual pone en duda la capacidad de la persona para cubrir necesidades básicas, y mucho menos obligaciones crediticias. A pesar de que el monto solicitado es también bajo ($2,250 COP) y el estado actual del crédito (si aplica) es "Al día", el motivo de "Consolidación de Deuda" indica una situación de estrés financiero preexistente. La asignación de un nivel de Riesgo 'B' para un perfil con ingresos tan precarios y una necesidad de consolidación de deuda sugiere una posible subestimación significativa del riesgo inherente a esta operación.
+
+Ante este panorama, es **imperativo** iniciar un proceso de verificación exhaustiva y urgente de los datos de ingresos del cliente, priorizando la validación documental o a través de fuentes externas confiables. En caso de confirmarse la veracidad de la cifra de ingresos, se debe proceder de inmediato a una reevaluación del riesgo, que con alta probabilidad resultará en una reclasificación a un nivel de riesgo mucho mayor (D, E o F) o, en su defecto, en la negación de la solicitud o la revisión de la estrategia para clientes con este perfil. Este caso particular también resalta la necesidad de revisar los filtros iniciales de elegibilidad y los modelos de calificación de riesgo para asegurar que se alineen con la realidad económica del país y la sostenibilidad de nuestro portafolio.
