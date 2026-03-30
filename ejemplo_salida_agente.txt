@@ -1,0 +1,39 @@
+PS D:\Portafolio_Analisis_Datos\Riesgo_credito> python 04_risk_assessment_agent.py
+--- 🧠 El Modelo de ML dice: 76.00% de Riesgo ---
+--- 🤖 Gemini está redactando la justificación... ---
+
+Excelente. Procedo con el análisis como su Auditor de Riesgos con IA.
+
+---
+
+**AUDITORÍA DE RIESGO DE CRÉDITO - MODELO ML**
+
+**Cliente:** [ID Cliente Implícito]
+**Probabilidad de MORA (Modelo ML):** 76.00%
+**Resultado Derivado:** ALTO RIESGO
+
+**1. Justificación Técnica de la Probabilidad (76.00%)**
+
+El modelo de Machine Learning, entrenado con un vasto corpus de datos históricos de solicitantes y sus resultados de pago, no evalúa la solvencia basándose únicamente en los ingresos nominales. Su proceso es multifactorial y no lineal, identificando patrones complejos que a menudo no son evidentes para un analista humano a primera vista.
+
+A pesar de que el ingreso reportado de **$123,968,000 COP** es sustancialmente alto, el modelo ha identificado una fuerte señal de riesgo. Las posibles razones técnicas que justifican esta alta probabilidad de mora incluyen:
+
+*   **Carga de Endeudamiento Actual (Debt-to-Income - DTI):** Es el factor más probable. Aunque el cliente tenga ingresos elevados, el modelo puede haber detectado que su **carga de endeudamiento existente es desproporcionadamente alta** en relación con esos ingresos. Esto incluye otras obligaciones financieras (créditos hipotecarios, de consumo, tarjetas de crédito, etc.) que no se reflejan en los datos básicos proporcionados, pero que el modelo infiere o conoce a través de los datos de burós de crédito u otras fuentes integradas. Un DTI elevado reduce drásticamente la capacidad de pago de nuevas obligaciones.
+*   **Historial Crediticio y Comportamiento de Pago:** El modelo otorga un peso significativo a los patrones de pago pasados. Si el cliente presenta **antecedentes de incumplimiento, pagos tardíos, alto apalancamiento en tarjetas de crédito, reestructuraciones de deuda o múltiples consultas de crédito recientes**, esto es un potente predictor de riesgo, incluso con ingresos actuales altos. Un historial negativo puede anular el efecto positivo de ingresos elevados.
+*   **Volatilidad o Estabilidad de Ingresos:** Los ingresos de $123,968,000 COP, aunque altos, pueden ser percibidos como **volátiles o inestables** por el modelo. Esto podría deberse a la fuente de ingresos (ej. comisiones, autoempleo con flujos irregulares, sector económico de alto riesgo) o a la antigüedad en el empleo, factores que el modelo podría tener en cuenta.
+*   **Correlaciones Geográficas y por Motivo (Depto: Valle, Motivo: Educación):**
+    *   **Depto: Valle:** El modelo podría haber encontrado que, para perfiles con **otras características similares** a este cliente, el departamento del Valle presenta una **tasa de mora históricamente superior** en su base de entrenamiento. Esto no es una atribución a la región per se, sino una correlación estadística en los datos.
+    *   **Motivo: Educación:** Aunque la educación suele ser vista positivamente, el modelo puede haber identificado **subsegmentos dentro de los créditos educativos** que, combinados con otras características (ej. edad del solicitante, tipo de institución educativa, monto relativo al ingreso), históricamente han tenido mayor tasa de mora.
+*   **Ratio Monto de Crédito / Ingresos Disponible (Loan-to-Income - LTI):** Aunque $32,000,000 COP es una fracción pequeña del ingreso reportado, el modelo no solo mira el LTI absoluto, sino cómo este se integra con la *disponibilidad real* de ingresos una vez descontadas otras deudas y gastos de vida inferidos.
+
+En resumen, el modelo no ha "ignorado" los ingresos elevados, sino que los ha contextualizado dentro de un conjunto más amplio de **vectores de características (feature vectors)**, donde factores como el endeudamiento previo, el historial de pagos y otras correlaciones ocultas han prevalecido, empujando la probabilidad de mora a un nivel críticamente alto.
+
+**2. Orden Final**
+
+Basado en la alta probabilidad de mora (76.00%) y la designación de ALTO RIESGO por el modelo de Machine Learning, mi orden como Auditor de Riesgos con IA es la siguiente:
+
+**ORDEN: Proceda a la NEGACIÓN automática de este crédito.**
+
+**JUSTIFICACIÓN DE LA ORDEN:** La probabilidad de 76.00% de mora supera ampliamente los umbrales de riesgo aceptables para cualquier institución financiera prudente. La exposición potencial a pérdidas y el costo de recuperación en un escenario de incumplimiento son demasiado elevados. La eficiencia del modelo radica en su capacidad para prevenir estas situaciones.
+
+**ACLARACIÓN ADICIONAL:** Si la organización considera que existe un error en los datos de entrada (ej. los ingresos son incorrectos o la fuente de información subyacente al modelo es incompleta para este cliente específico), se autoriza una **revisión manual exhaustiva y justificada**. Dicha revisión deberá obligatoriamente incorporar información detallada sobre la carga de endeudamiento actual del cliente (DTI), un reporte crediticio completo y validado, y una justificación clara de cómo estos datos adicionales mitigan los factores de riesgo identificados por el modelo. Sin esta información adicional, la orden de negación se mantiene firme.
